@@ -4,7 +4,7 @@ A fun, interactive, and responsive Rock Paper Scissors game built using HTML, CS
 
 🎮 Live Demo
 
-"Play the Game Online" (https://alirshad85939-blip.github.io/rock-paper-scissors-game/)
+"Play the Game Online" (https://aliirshad85939-blip.github.io/rock-paper-scissors-game/)
 
 ✨ Features
 
